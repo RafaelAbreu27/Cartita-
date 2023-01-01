@@ -1,0 +1,38 @@
+body {
+    background: black;
+
+  }
+  
+
+
+p{ color: blueviolet;
+
+}
+
+.letter {
+    width: 500px;
+    padding: 20px;
+    border: 1px solid rgb(255, 242, 242);
+    margin: 0 auto;
+  }
+  
+  .letter h1 {
+    text-align: center;
+    color:rgb(236, 7, 95);
+     
+  }
+  
+  .letter p {
+    line-height: 1.5;
+    margin: 20px 0;
+  }
+  
+  .letter button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: rgb(122, 1, 94);
+    border: none;
+    cursor: pointer;
+  }
+  
